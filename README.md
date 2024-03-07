@@ -1,6 +1,6 @@
 - 👋 Hi, I’m muhammed mubashir vp
 - 👀 I’m interested in app development
-- 🌱 I’m currently doing Api
+- 🌱 I’m currently doing FireBase
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email:vpmubash628@gmail.com
 - mobile no:7736175661
